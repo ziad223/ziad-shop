@@ -1,0 +1,10 @@
+.parthner img{
+   width: 200px !important;
+   text-align: center;
+   display: block;
+   margin-left: 50px;
+}
+.parthner{
+    background-color: #ddd;
+    padding: 30px;
+}

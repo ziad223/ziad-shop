@@ -1,0 +1,45 @@
+.a{
+    text-align: center;
+    font-size: 40px;
+}
+.a span{
+    color: var(--main-color);
+}
+.about-content{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.about-right > *{
+  margin-bottom: 20px;
+}
+.about-right h2{
+    font-size: 30px;
+}
+.about-right h2 span{
+    color: var(--main-color);
+}
+.about-right h3{
+    color: gray;
+    line-height: 1.5;
+}
+.about-right h3 span{
+    color: var(--main-color);
+    font-size: 23px;
+}
+.about-right button {
+    padding: 15px 10px;
+    width: 200px;
+    border: none;
+    background: transparent;
+    border: 2px solid var(--main-color);
+    font-size: 22px;
+    color: var(--main-color);
+    cursor: pointer;
+    transition: 0.5s;
+}
+.about-right button:hover{
+    background-color: var(--main-color);
+    color: #fff;
+}
