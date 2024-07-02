@@ -30,7 +30,7 @@ const Navbar = ({cartItems , watchlist , dark , changeTheme}) => {
     <nav>
         <div className="nav-left">
             <Link to='/' style={{textDecoration : "none"}}>
-            <h2>Bravo <span>Shop</span></h2>
+            <h2>Ziad <span>Shop</span></h2>
             </Link>
         </div>
         <div className="nav-middle">
